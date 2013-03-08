@@ -12,9 +12,9 @@ Add columns to visual editor and the page, another easier way to make columns us
 
 == Description ==
 
-Add columns to visual editor and the page, yet another easier way to make columns using visual editor without HTML knowledge nor shortcodes. 
+Add columns to visual editor and the page, another easier way to make columns using visual editor without HTML knowledge nor shortcodes. 
 
-This plugin provides you with 4 general column layout trough visual editors buttons.
+This plugin provides you with 4 general column layout in your visual editor.
 
 == Installation ==
 
