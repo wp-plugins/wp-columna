@@ -24,12 +24,6 @@ This plugin provides you with 4 general column layout in your visual editor.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to visual editor and create layout columns
 
-== Frequently asked questions ==
-
-= A question that someone might have =
-
-An answer to that question.
-
 == Screenshots ==
 
 1. Extra buttons in visual editor
