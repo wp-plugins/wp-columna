@@ -1,6 +1,8 @@
 === WP-Columna ===
 Contributors: web2webs
-Donate link: 
+Plugin URI: http://web2webs.com/plugin-de-columnas-de-wordpress/
+Donate link: http://web2webs.com/plugin-de-columnas-de-wordpress/
+Author URI: http://web2webs.com/
 Tags: column, columns, layout, cms, pages, posts
 Requires at least: 3.3
 Tested up to: 3.5.1
@@ -30,14 +32,4 @@ An answer to that question.
 
 == Screenshots ==
 
-1. Extra Buttons
-
-== Changelog ==
-
-
-
-== Upgrade notice ==
-
-
-
-== Arbitrary section 1 ==
+1. Extra buttons in visual editor
