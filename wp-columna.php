@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP-Columna
-Plugin URI: http://web2webs.com/blog/wp-columna
+Plugin URI: http://web2webs.com/plugin-de-columnas-de-wordpress/
 Description: Add columns to visual editor and the page.
 Author: Amir Jahanmast
 Version: 1.0
