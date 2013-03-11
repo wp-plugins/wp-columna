@@ -1,6 +1,8 @@
 === WP-Columna ===
 Contributors: web2webs
-Donate link: 
+Plugin URI: http://web2webs.com/plugin-de-columnas-de-wordpress/
+Donate link: http://web2webs.com/plugin-de-columnas-de-wordpress/
+Author URI: http://web2webs.com/
 Tags: column, columns, layout, cms, pages, posts
 Requires at least: 3.3
 Tested up to: 3.5.1
@@ -12,9 +14,9 @@ Add columns to visual editor and the page, another easier way to make columns us
 
 == Description ==
 
-Add columns to visual editor and the page, yet another easier way to make columns using visual editor without HTML knowledge nor shortcodes. 
+Add columns to visual editor and the page, another easier way to make columns using visual editor without HTML knowledge nor shortcodes. 
 
-This plugin provides you with 4 general column layout trough visual editors buttons.
+This plugin provides you with 4 general column layout in your visual editor.
 
 == Installation ==
 
@@ -22,22 +24,6 @@ This plugin provides you with 4 general column layout trough visual editors butt
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to visual editor and create layout columns
 
-== Frequently asked questions ==
-
-= A question that someone might have =
-
-An answer to that question.
-
 == Screenshots ==
 
-1. Extra Buttons
-
-== Changelog ==
-
-
-
-== Upgrade notice ==
-
-
-
-== Arbitrary section 1 ==
+1. Extra buttons in visual editor
