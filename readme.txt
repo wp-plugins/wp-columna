@@ -5,7 +5,7 @@ Donate link: http://web2webs.com/plugin-de-columnas-de-wordpress/
 Author URI: http://web2webs.com/
 Tags: column, columns, layout, cms, pages, posts
 Requires at least: 3.3
-Tested up to: 3.5.1
+Tested up to: 3.8
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
